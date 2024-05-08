@@ -13,4 +13,6 @@ After cloning this onto your local machine run
 Dependencies can be found in package.json
 
 # Design
-When the plus or minus button in any section is clicked, the number for that section updates accordingly and the state is tracked across all components.
+When the plus or minus button in any section is clicked, the number for that section updates accordingly and the state is tracked across all components. Below is an preview of of the UI
+
+![Holy Grail Design](https://github.com/KaylaDefi/Holy-Grail-Application/blob/main/public/icons/holyGrailDesign.png)

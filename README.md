@@ -2,9 +2,9 @@
 This is a three-tier application with a holy grail design and a full-service database. 
 
 # Architecture
-React and Superagent as client
-Node and Express as server
-Redis for datastore, running on top of Docker
+React and Superagent as client,
+Node and Express as server,
+Redis for datastore, running on top of Docker.
 
 # Usage
 After cloning this onto your local machine run

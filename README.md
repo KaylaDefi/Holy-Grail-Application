@@ -1,4 +1,4 @@
-# Holy Grail Appication
+# Holy Grail Application
 This is a three-tier application with a holy grail design and a full-service database. 
 
 # Architecture

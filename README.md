@@ -1,5 +1,5 @@
 # Holy Grail Application
-This is a three-tier application with a holy grail design and a full-service database. 
+This is a three-tier application with a holy grail design.
 
 # Architecture
 React and Superagent as client,
@@ -7,8 +7,6 @@ Node and Express as server,
 Redis for datastore, running on top of Docker.
 
 # Usage
-After cloning this onto your local machine run
-"npm install" followed by "node index.js"
 
 Dependencies can be found in package.json
 
